@@ -6,6 +6,7 @@ import (
 	"fmt"
 )
 
+// Vec2 is a 2-dimensional float32 vector,
 type Vec2 [2]float32
 
 func NewVec2() *Vec2 {

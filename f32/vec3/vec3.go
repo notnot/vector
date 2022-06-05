@@ -6,6 +6,7 @@ import (
 	"fmt"
 )
 
+// Vec3 is a 3-dimensional float32 vector,
 type Vec3 [3]float32
 
 func NewVec3() *Vec3 {

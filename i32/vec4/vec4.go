@@ -6,6 +6,7 @@ import (
 	"fmt"
 )
 
+// Vec4 is a 4-dimensional int32 vector,
 type Vec4 [4]int32
 
 func NewVec4() *Vec4 {
