@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-// Vec2 is a 2-dimensional int32 vector,
+// Vec2 is a 2-dimensional int32 vector.
 type Vec2 [2]int32
 
 func NewVec2() *Vec2 {
