@@ -1,4 +1,4 @@
-// main.go, jpad 2022
+// vector.go, jpad 2022
 
 package main
 
