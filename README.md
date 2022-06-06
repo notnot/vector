@@ -14,7 +14,7 @@ more serious stuff!
 - git push origin main
 - git push origin v0.1.0
 
-After editing the source code, it is time to publish a new version again:
+After editing the source code, it is time to publish a new version:
 
 - git commit -a -m "an upgrade"
 - git tag v0.1.1
