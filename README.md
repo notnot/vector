@@ -3,7 +3,7 @@ This repository only exists to figure out how to publish a multi-package Go modu
 on Github using the git command. I'll be experimenting freely with it before i publish 
 more serious stuff!
 
-- On the github site, create a new repository, do not initialize.
+- On the github site, create a new repository.
 - On the development machine, cd to the directory with the new module source code.
 - git init
 - git add .
