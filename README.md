@@ -23,7 +23,7 @@ After editing the source code, it is time to publish a new version:
 
 
 
-Perhaps i have not found the easiest way yet. I found out that tags have to be pushed
+Perhaps i have not found the easiest way yet. It turned out that tags have to be pushed
 explicitly, otherwise only the main branch will be updated. Cumbersome.
 
 You have to make sure that you have a SSH key set up on your development machine and
